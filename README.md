@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Hannah!
+### Hi, I'm Hannah!
 - 👩🏻‍💻 A data analyst who develops and manages relational databases, constructs queries, and builds dashboards to create solutions for businesses.
 - 👩🏻‍🎓 Studied Information Systems at University of Colorado Denver.
 - 🎨 Always exploring new things in the vast open-source world.
